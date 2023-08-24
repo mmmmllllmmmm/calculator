@@ -1,2 +1,2 @@
 # calculator
-calculator using visual c#
+<h1>Simple calculator using visual c#</h1>
