@@ -1,0 +1,60 @@
+D:\year 3\windows forms c#\calculator4\calculator4\bin\Debug\calculator4.exe.config
+D:\year 3\windows forms c#\calculator4\calculator4\bin\Debug\calculator4.exe
+D:\year 3\windows forms c#\calculator4\calculator4\bin\Debug\calculator4.pdb
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.Form1.resources
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.exe
+D:\year 3\windows forms c#\calculator4\calculator4\obj\Debug\calculator4.pdb
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.Form1.resources
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.exe
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\obj\Debug\calculator4.pdb
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\bin\Debug\calculator4.exe.config
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\bin\Debug\calculator4.exe
+C:\Users\ASUS\Desktop\c#\calculator4\calculator4\bin\Debug\calculator4.pdb
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.Form1.resources
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.exe
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\obj\Debug\calculator4.pdb
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\bin\Debug\calculator4.exe.config
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\bin\Debug\calculator4.exe
+D:\الجامعه\سنه ثالثه\برمجه قواعد بيانات ٢\calculator4\calculator4\bin\Debug\calculator4.pdb
+D:\الجامعه\calculator4\calculator4\bin\Debug\calculator4.exe.config
+D:\الجامعه\calculator4\calculator4\bin\Debug\calculator4.exe
+D:\الجامعه\calculator4\calculator4\bin\Debug\calculator4.pdb
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.Form1.resources
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.exe
+D:\الجامعه\calculator4\calculator4\obj\Debug\calculator4.pdb
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\bin\Debug\calculator4.exe.config
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\bin\Debug\calculator4.exe
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\bin\Debug\calculator4.pdb
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.Form1.resources
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.exe
+D:\الجامعه\‏‏calculator4 - نسخة\calculator4\obj\Debug\calculator4.pdb
+C:\ZDATA\الجامعه\calculator the true one\calculator4\bin\Debug\calculator4.exe.config
+C:\ZDATA\الجامعه\calculator the true one\calculator4\bin\Debug\calculator4.exe
+C:\ZDATA\الجامعه\calculator the true one\calculator4\bin\Debug\calculator4.pdb
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.csprojAssemblyReference.cache
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.Form1.resources
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.Properties.Resources.resources
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.csproj.GenerateResource.cache
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.csproj.CoreCompileInputs.cache
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.exe
+C:\ZDATA\الجامعه\calculator the true one\calculator4\obj\Debug\calculator4.pdb
